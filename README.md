@@ -1,9 +1,2 @@
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=North409&show_icons=true&layout=compact&theme=prussian&count_private=true" />
-    </a>
-<br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=North409&show_icons=true&theme=prussian&count_private=true" />
-    </a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=North409&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=North409&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
